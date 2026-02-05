@@ -37,13 +37,14 @@ Symbol OR-4
 ### Symbol Op-Amp
 ![Symbol Diagram](images/OPAMP_Symbol.png)
 ### Simulation Op-Amp
-![Simulation Diagram](images/OPAMP_Simulation.png)
+![Simulation Diagram](images/Op-Amp_Simulation.png)
 
 --- 
 
 ## 5. Mô Phỏng Encoder
 ### Bảng sự thật Encoder
 ![Schematic Diagram](images/Truth_Table.png)
+
 Theo tính toán trên lý thuyết ta cần **3 cổng OR 4 ngõ vào** để tạo mạch Encoder
 ### Schematic Encoder
 ![Schematic Diagram](images/Encoder_Schematic.png)
